@@ -42,9 +42,9 @@ Hi there! 👋 I'm a passionate **undergraduate student** who loves to explore a
 ---
 
 ## 📫 How to Reach Me
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- **Portfolio**: [Your Website](https://your-portfolio.com)
+- **Email**: [bhupendrad1724@gmail.com](mailto:your-email@example.com)
+- **LinkedIn**: [https://www.linkedin.com/in/bhupendra-dewangan-172-rahul](https://linkedin.com/in/your-profile)
+- **Portfolio**: [https://bhupendra-dewangan-17.web.app/](https://your-portfolio.com)
 
 ---
 
