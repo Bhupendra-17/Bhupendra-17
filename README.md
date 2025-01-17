@@ -35,12 +35,6 @@ Hi there! 👋 I'm a passionate **undergraduate student** who loves to explore a
 
 ---
 
-## 🌱 Current Projects
-- **YA-MITRA**: A platform for exploring hidden local tourist attractions with personalized recommendations and route planning.
-- **GreenBreeze**: A project aimed at improving air quality through plantation area calculation, leveraging real-time AQI data.
-
----
-
 ## 📫 How to Reach Me
 - **Email**: [bhupendrad1724@gmail.com](mailto:your-email@example.com)
 - **LinkedIn**: [https://www.linkedin.com/in/bhupendra-dewangan-172-rahul](https://linkedin.com/in/your-profile)
