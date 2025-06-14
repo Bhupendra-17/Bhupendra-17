@@ -47,15 +47,15 @@ Hi there! 👋 I'm a passionate **undergraduate student** who loves to explore a
 
 Here are some insights into my GitHub activity and contributions:
 
-[![Bhupendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhupendradewangan&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Bhupendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhupendra-17&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhupendradewangan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupendra-17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhupendradewangan&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhupendra-17&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bhupendradewangan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bhupendra-17&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=bhupendradewangan&color=blue)](https://komarev.com/ghpvc/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Bhupendra-17&color=blue)](https://komarev.com/ghpvc/)
 ---
 
 ## 💡 Fun Fact
