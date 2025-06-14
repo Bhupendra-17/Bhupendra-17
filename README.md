@@ -16,7 +16,7 @@ Hi there! 👋 I'm a passionate **undergraduate student** who loves to explore a
 
 ### **Programming Languages**
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
@@ -25,7 +25,8 @@ Hi there! 👋 I'm a passionate **undergraduate student** who loves to explore a
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 - ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
-
+- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+  
 ### **Databases**
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
@@ -36,27 +37,21 @@ Hi there! 👋 I'm a passionate **undergraduate student** who loves to explore a
 ---
 
 ## 📫 How to Reach Me
-- **Email**: [bhupendrad1724@gmail.com](mailto:your-email@example.com)
-- **LinkedIn**: [https://www.linkedin.com/in/bhupendra-dewangan-172-rahul](https://linkedin.com/in/your-profile)
 - **Portfolio**: [https://bhupendra-dewangan-17.web.app/](https://your-portfolio.com)
+- **LinkedIn**: [https://www.linkedin.com/in/bhupendra-dewangan-172-rahul](https://linkedin.com/in/your-profile)
+- **Email**: [bhupendrad1724@gmail.com](mailto:your-email@example.com)
 
----
 ---
 
 ## 📊 My GitHub Activity
 
 Here are some insights into my GitHub activity and contributions:
 
-[![Bhupendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhupendra-17&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhupendra-17&show_icons=true&theme=light&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupendra-17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhupendra-17&theme=light)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhupendra-17&theme=dark)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupendra-17&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bhupendra-17&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Bhupendra-17&color=blue)](https://komarev.com/ghpvc/)
----
-
-## 💡 Fun Fact
-I believe in the power of **technology** to solve real-world problems and create sustainable solutions! 🌍✨
+- **Follow me on GitHub**: [https://github.com/Bhupendra-17](https://github.com/Bhupendra-17)
