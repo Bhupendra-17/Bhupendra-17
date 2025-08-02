@@ -47,11 +47,11 @@ Hi there! 👋 I'm a passionate **undergraduate student** who loves to explore a
 
 Here are some insights into my GitHub activity and contributions:
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhupendra-17&show_icons=true&theme=light&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhupendra-17&show_icons=true&theme=dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhupendra-17&theme=light)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhupendra-17&theme=dark)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupendra-17&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupendra-17&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - **Follow me on GitHub**: [https://github.com/Bhupendra-17](https://github.com/Bhupendra-17)
